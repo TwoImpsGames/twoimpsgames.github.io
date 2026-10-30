@@ -1,0 +1,2 @@
+# Put your AdMob publisher line here once you have an AdMob account (AdMob › Apps › View all apps › app-ads.txt):
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
